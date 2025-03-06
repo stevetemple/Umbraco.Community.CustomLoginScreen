@@ -1,0 +1,14 @@
+{
+    "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json", 
+    "AuthorDetails": {
+      "Name": "Steve Temple",
+      "ImageUrl": "https://github.com/stevetemple.png"
+    },
+    "Category": "",
+    "Description": "",
+    "LicenseTypes": [ "Free" ],
+    "IssueTrackerUrl": "https://github.com/stevetemple/CustomLoginScreen/issues",
+    "PackageType": "Package",
+    "Tags": [],
+    "Title": "Custom Login Screen "
+  }

@@ -1,0 +1,15 @@
+{
+  "id": "CustomLoginScreen",
+  "name": "CustomLoginScreen",
+  "version": "0.0.0",
+  "allowPackageTelemetry": true,
+  "allowPublicAccess":  true,
+  "extensions": [
+    {
+      "name": "Custom Login Screen Bundle",
+      "alias": "CustomLoginScreen.Bundle",
+      "type": "bundle",
+      "js": "/App_Plugins/CustomLoginScreen/custom-login-screen.js"
+    }
+  ]
+}
