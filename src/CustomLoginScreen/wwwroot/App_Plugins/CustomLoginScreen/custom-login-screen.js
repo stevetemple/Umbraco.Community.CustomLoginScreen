@@ -3,7 +3,7 @@ const n = [
     name: "Custom Login Screen Entrypoint",
     alias: "CustomLoginScreen.Entrypoint",
     type: "appEntryPoint",
-    js: () => import("./entrypoint-DCYsU2mG.js")
+    js: () => import("./entrypoint-DHPCsDtF.js")
   }
 ], t = [
   ...n
